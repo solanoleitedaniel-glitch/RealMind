@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RealMind</string>
+    <string name="title_activity_main">RealMind</string>
+    <string name="package_name">com.realmind.app</string>
+    <string name="custom_url_scheme">com.realmind.app</string>
+</resources>

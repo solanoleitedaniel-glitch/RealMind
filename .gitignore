@@ -1,0 +1,21 @@
+node_modules
+dist
+.vercel
+.tanstack
+.grok
+artifacts
+screenshots
+attachments
+
+# Android
+android/local.properties
+android/keystore.properties
+android/*.keystore
+android/app/build
+android/build
+android/.gradle
+android/app/src/main/assets/public
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+*.apk
+*.aab
